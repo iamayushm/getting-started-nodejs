@@ -38,7 +38,7 @@ Lets see how to deploy a custom nodejs app through Devtron.
 Make sure Global Configurations are successfully saved and validated before deploying your application.
 
 **STEP 1**
-Login into your Devtron Dashboard, Go to >> Applications >> Create new App. Give an appropriate name to this App, choose the project in which you want to keep the app, and create it.
+Login into your Devtron Dashboard,         Go to >> Applications >> Create new App. Give an appropriate name to this App, choose the project in which you want to keep the app, and create it.
 
 **STEP 2**
 After creating the app, setup the configurations. Copy the repo URL https://github.com/devtron-labs/getting-started-nodejs and paste it the Git repo section of your App. Click save and move to next config.
