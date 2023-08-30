@@ -69,6 +69,10 @@ resources:
         memory: 10Mi
 ```
 
+
+
+
+
 Now, select the serviceType, keep it as `LoadBalancer`.
 
 ```
