@@ -13,7 +13,7 @@ This application uses                   the `node` container image obtained from
 
 ## Setup
 
-Clone this repo and cd into the directory:
+Clone              this repo and cd into the directory:
 
 ```
 git clone https://github.com/devtron-labs/getting-started-nodejs
